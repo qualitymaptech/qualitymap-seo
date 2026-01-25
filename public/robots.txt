@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://qualitymap-seo.vercel.app/sitemap.xml
+Sitemap: https://qualitymap.io/sitemap.xml
