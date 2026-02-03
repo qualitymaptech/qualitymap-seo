@@ -1,178 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+  
+  <!-- Home -->
   <url>
     <loc>https://qualitymap.io/</loc>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-02-03</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/inicio</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://qualitymap.io/home</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
+  <!-- Sobre Nós -->
   <url>
     <loc>https://qualitymap.io/sobre</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/about</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://qualitymap.io/sobre-nosotros</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
+  <!-- História -->
   <url>
     <loc>https://qualitymap.io/historia</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/history</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
+  <!-- Equipe -->
   <url>
     <loc>https://qualitymap.io/equipe</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
+  <!-- Valores -->
   <url>
-    <loc>https://qualitymap.io/team</loc>
+    <loc>https://qualitymap.io/valores</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/equipo</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
+  <!-- QualityMap 2030 -->
   <url>
     <loc>https://qualitymap.io/qualitymap-2030</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
+  <!-- Quality Brain -->
   <url>
     <loc>https://qualitymap.io/quality-brain</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
+  <!-- Como Funciona -->
   <url>
     <loc>https://qualitymap.io/como-funciona</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/how-it-works</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
+  <!-- Tecnologia -->
   <url>
     <loc>https://qualitymap.io/tecnologia</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/technology</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
+  <!-- Benefícios -->
   <url>
     <loc>https://qualitymap.io/beneficios</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/benefits</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
+  <!-- Cases -->
   <url>
     <loc>https://qualitymap.io/cases</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/casos</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
+  <!-- Case Telecom -->
   <url>
     <loc>https://qualitymap.io/case-telecom</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
+  <!-- Case Software de Gestão -->
   <url>
     <loc>https://qualitymap.io/case-software-gestao</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
+  <!-- Case Automotivo -->
   <url>
     <loc>https://qualitymap.io/case-automotivo</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
+  <!-- Clientes -->
   <url>
     <loc>https://qualitymap.io/clientes</loc>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-02-03</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <url>
-    <loc>https://qualitymap.io/clients</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
+  <!-- Contato -->
   <url>
     <loc>https://qualitymap.io/contato</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
+  <!-- Área do Cliente -->
   <url>
-    <loc>https://qualitymap.io/contact</loc>
+    <loc>https://qualitymap.io/area-do-cliente</loc>
+    <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://qualitymap.io/contacto</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.5</priority>
   </url>
 
 </urlset>
